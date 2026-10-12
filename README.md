@@ -7,6 +7,7 @@ A collection of reusable agent skills — versioned, and easy to share across to
 | Name | Description |
 |------|-------------|
 | [architecture-decision](skills/architecture-decision/) | Guides through architecture decisions (monolith vs microservices, layered vs hexagonal, WebSocket/SSE/long polling…), records them as ADRs and keeps the architecture documentation up to date. |
+| [new-project](skills/new-project/) | Scaffolds and initializes a new project: git init, stack bootstrap via its standard tooling, README, docs/, AGENTS.md, and the first ADRs (stack choice + architecture decisions). |
 
 ## Conventions
 
